@@ -1,5 +1,7 @@
 # Lab6-CVDS
 
+## Seting up Azure resource
+
 Primero creamos una base de datos con los datos especificados en el tutorial enviado, con usuario sys admin y contraseña Abcdefghi1
 
 <img width="465" alt="Screen Shot 2022-10-23 at 2 22 41 PM" src="https://user-images.githubusercontent.com/77862016/197411944-1dc19107-34a2-4084-b9b3-09fafefdac00.png">
@@ -27,3 +29,6 @@ Luego vamos a la configuracion de los grupos de recursos y le damos click en la 
 Intentamos cambiar la opcion de permitir que Azure accediera al servidor pero al parcer por algun tipo de actualizacion no esta disponible, por lo que continuamos y esperamos que no nos afecte en el futuro
 
 <img width="759" alt="Screen Shot 2022-10-23 at 2 42 57 PM" src="https://user-images.githubusercontent.com/77862016/197414528-5df9bcf5-0d4e-427f-a5cc-b607a0bd004f.png">
+
+## Create a continuous release to the QA stage
+
