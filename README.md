@@ -133,3 +133,5 @@ Y cuando cambiamos la URL y le agregamos el staging en esta veremos la actualiza
 Luego para arreglar esto volvemos al portal le damos la opcion de swap y revisamos que la pagina este actualizada con el link normal
 
 ![Screen Shot 2022-10-27 at 6 21 08 PM](https://user-images.githubusercontent.com/77862016/198415610-a5566aeb-600e-4528-bc83-7ea2511106ba.png)
+
+[URL del sitio desplegado](https://laboratorio6ciclos-prod.azurewebsites.net)
