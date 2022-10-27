@@ -60,6 +60,6 @@ Y con los permisos ya el pipeline funciona
 
 ![Screen Shot 2022-10-27 at 4 22 15 PM](https://user-images.githubusercontent.com/77862016/198400832-c493e132-7f37-4983-988f-b30bfa0e6b78.png)
 
-Y al entrar al link ![de la pagina](https://laboratorio6ciclos-qa.azurewebsites.net) podemos ver lo siguiente
+Y al entrar al link [de la pagina](https://laboratorio6ciclos-qa.azurewebsites.net) podemos ver lo siguiente
 
 ![Screen Shot 2022-10-27 at 4 39 02 PM](https://user-images.githubusercontent.com/77862016/198403525-1d35edb3-aeba-4067-aec5-16818fc63d27.png)
