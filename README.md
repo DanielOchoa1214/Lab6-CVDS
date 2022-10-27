@@ -78,4 +78,31 @@ Y mabiamos el nombre de la etapa clonada por Prod y configuramos cre la misma ma
 
 ![Screen Shot 2022-10-27 at 5 02 01 PM](https://user-images.githubusercontent.com/77862016/198406640-bdbd6525-c6c5-4f31-8d9b-91b2ac102b77.png)
 
+Y actualizamos el chtml por la nueva version que realizamos 
+
+![Screen Shot 2022-10-27 at 5 04 00 PM](https://user-images.githubusercontent.com/77862016/198406872-8522391d-9921-4deb-9cb5-e3fb96278709.png)
+
+Y al desplegar la aiplicacion mientras pasa por el pipe line fallara pues uno de los quality gates no se esta cumpliendo
+
+![Screen Shot 2022-10-27 at 5 06 21 PM](https://user-images.githubusercontent.com/77862016/198407172-abad0f14-c842-4e64-9558-3363259cd825.png)
+![Screen Shot 2022-10-27 at 5 06 35 PM](https://user-images.githubusercontent.com/77862016/198407181-f5454087-77a6-46b4-b3f7-0248eeb03c11.png)
+
+Luego seguimos los pasos del tutorial para arreglarlo
+
+![Screen Shot 2022-10-27 at 5 42 28 PM](https://user-images.githubusercontent.com/77862016/198411583-f3a47729-c775-4ed7-a84a-24807a7d4711.png)
+
+Y luego aprovamos el paso a produccion
+
+![Screen Shot 2022-10-27 at 6 02 58 PM](https://user-images.githubusercontent.com/77862016/198413855-fbbedb83-a467-44b0-90df-3d42a008a91f.png)
+![Screen Shot 2022-10-27 at 6 05 00 PM](https://user-images.githubusercontent.com/77862016/198414060-d62693db-5050-461b-8860-4c14750b79f6.png)
+
+Y ingresamos a la pagina de produccion
+
+![Screen Shot 2022-10-27 at 6 05 33 PM](https://user-images.githubusercontent.com/77862016/198414127-d975cc3a-efd8-4a88-9cda-e246034824a6.png)
+
+## Working with deployment slots
+
+
+
+
 
