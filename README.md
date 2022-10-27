@@ -1,5 +1,9 @@
 # Lab6-CVDS
 
+## Autores:
+Wilmer Arley Rodriguez Ropero
+Daniel Sebastian Ochoa Urrego
+
 ## Seting up Azure resource
 
 Primero creamos una base de datos con los datos especificados en el tutorial enviado, con usuario sys admin y contraseña Abcdefghi1
@@ -102,7 +106,30 @@ Y ingresamos a la pagina de produccion
 
 ## Working with deployment slots
 
+Vamos a la seccion de slots de de desplieque y agregamos uno
 
+![Screen Shot 2022-10-27 at 6 06 44 PM](https://user-images.githubusercontent.com/77862016/198414224-ea40e69e-e43d-4e4b-bf97-66d5840c294f.png)
 
+Volvemos al DevOps y agregamos el slot creado en la etapa de produccion
 
+![Screen Shot 2022-10-27 at 6 09 30 PM](https://user-images.githubusercontent.com/77862016/198414510-96553409-5633-4163-b232-7dafea075cef.png)
 
+Luego cambiamos la verion de la pagina otra vez y guardamos los cambios
+
+![Screen Shot 2022-10-27 at 6 10 47 PM](https://user-images.githubusercontent.com/77862016/198414638-91624acc-39c6-4145-bea1-439760215aee.png)
+
+Luego saldra otro release y lo desplegamos
+
+![Screen Shot 2022-10-27 at 6 15 06 PM](https://user-images.githubusercontent.com/77862016/198415044-61578f22-edd3-474b-acb1-abf36a0bb4f9.png)
+
+Y revisamos la pagina en el browser y deberia quedar igual
+
+![Screen Shot 2022-10-27 at 6 15 41 PM](https://user-images.githubusercontent.com/77862016/198415122-51ade0b0-4adb-4b81-85ea-96d8ea592017.png)
+
+Y cuando cambiamos la URL y le agregamos el staging en esta veremos la actualizacion 
+
+![Screen Shot 2022-10-27 at 6 16 39 PM](https://user-images.githubusercontent.com/77862016/198415184-e33f4217-4f31-4704-b314-f6f4c62c2b20.png)
+
+Luego para arreglar esto volvemos al portal le damos la opcion de swap y revisamos que la pagina este actualizada con el link normal
+
+![Screen Shot 2022-10-27 at 6 21 08 PM](https://user-images.githubusercontent.com/77862016/198415610-a5566aeb-600e-4528-bc83-7ea2511106ba.png)
