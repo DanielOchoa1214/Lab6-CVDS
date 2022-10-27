@@ -32,3 +32,13 @@ Intentamos cambiar la opcion de permitir que Azure accediera al servidor pero al
 
 ## Create a continuous release to the QA stage
 
+Antes de poder empezar con esta seccion debemos crear una organizacion en Azure, con el nombre Parts Unlimited y luego entramos en el Azure DevOps y empezamos a crear el pipeline
+
+![Screen Shot 2022-10-26 at 7 05 02 PM](https://user-images.githubusercontent.com/77862016/198161076-c510bcfa-c507-4218-b5b4-a75b01efd46b.png)
+
+Luego eliminamos el pipeline que ya estaba creado anteriormente para crear el que nos dice el tutorial y este fue el resultado final
+
+![Screen Shot 2022-10-26 at 7 28 31 PM](https://user-images.githubusercontent.com/77862016/198163371-af3471c5-f8c4-4b45-9658-96b48c8f7895.png)
+
+## Configuring the Azure app services
+
