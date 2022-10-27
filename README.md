@@ -1,8 +1,8 @@
 # Lab6-CVDS
 
 ## Autores:
-Wilmer Arley Rodriguez Ropero
-Daniel Sebastian Ochoa Urrego
+- Wilmer Arley Rodriguez Ropero
+- Daniel Sebastian Ochoa Urrego
 
 ## Seting up Azure resource
 
