@@ -42,3 +42,16 @@ Luego eliminamos el pipeline que ya estaba creado anteriormente para crear el qu
 
 ## Configuring the Azure app services
 
+En esta seccion empezamos linkeando la base de datos con las  2 aplicaciones web creada anteriormente
+
+![Screen Shot 2022-10-26 at 7 31 46 PM](https://user-images.githubusercontent.com/77862016/198163706-feeeb52b-1387-4191-9af8-8f00a76fd85d.png)
+
+## Invoking a continuous delivery release to QA
+
+Empezamos editando el archivo Layaout.cshtml
+
+![Screen Shot 2022-10-26 at 7 38 33 PM](https://user-images.githubusercontent.com/77862016/198164290-9f470286-d9ab-44d6-8e50-f664d221357b.png)
+
+Pero antes de lograr que funcionen los cambios debemos pedir permisos de paralelismo para lo cual debemos esperar unos dias
+
+![Screen Shot 2022-10-26 at 7 43 01 PM](https://user-images.githubusercontent.com/77862016/198164879-92223f4e-9ee0-4195-86d3-d3424c555fd6.png)
