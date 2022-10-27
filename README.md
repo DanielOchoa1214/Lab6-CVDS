@@ -63,3 +63,19 @@ Y con los permisos ya el pipeline funciona
 Y al entrar al link [de la pagina](https://laboratorio6ciclos-qa.azurewebsites.net) podemos ver lo siguiente
 
 ![Screen Shot 2022-10-27 at 4 39 02 PM](https://user-images.githubusercontent.com/77862016/198403525-1d35edb3-aeba-4067-aec5-16818fc63d27.png)
+
+## Creating a gated release to the production stage
+
+Para esta parte primero editamos el release del pipeline como especifica el tutorial
+
+![Screen Shot 2022-10-27 at 4 46 19 PM](https://user-images.githubusercontent.com/77862016/198404458-166ca40f-7e1a-4d47-9bc6-e1687a626576.png)
+
+Luego modificamos los queries como espesifica el laboratorio
+
+![Screen Shot 2022-10-27 at 4 48 10 PM](https://user-images.githubusercontent.com/77862016/198404718-aa956551-5a54-4539-95ac-fde36f3e553e.png)
+
+Y mabiamos el nombre de la etapa clonada por Prod y configuramos cre la misma manera que la anterior con las especificaciones dadas en el tutorial
+
+![Screen Shot 2022-10-27 at 5 02 01 PM](https://user-images.githubusercontent.com/77862016/198406640-bdbd6525-c6c5-4f31-8d9b-91b2ac102b77.png)
+
+
